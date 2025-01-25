@@ -1,25 +1,16 @@
-### Welcome to...
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FormunaGit/FormunaGit/refs/heads/main/Pictures/Header.png" />
+</p>
 
-***Formuna's GitHub!***
------------------------
 
-Hi there! This, as you can see, is my GitHub profile. All of my public projects go here, where people (like you) can use my projects for any reason.
+# Hey!
+**Welcome to my GitHub user!**
+I write code. Not as much as I'd like, but still.
+My current project I'm focusing on Pintes, a (currently unreleased :P) Python module that creates static HTML pages.
 
----
-
-### Languages/Frameworks I know:
-
-🌐 - ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript), ![Static Badge](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5), ![Static Badge](https://img.shields.io/badge/CSS-cyan?style=flat&logo=css3)
-
-🖥 - ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=yellow), ![Static Badge](https://img.shields.io/badge/Node-JS-green?style=flat&logo=node.js&logoColor=green)
-
-![My Total Statistics ](https://github-readme-stats.vercel.app/api?username=FormunaGit&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FormunaGit&theme=vue-dark&show_icons=true&hide_border=true)
-
-### Credits
-
-[is-a.dev](https://github.com/is-a-dev/) ~ For the [formuna.is-a.dev](https://formuna.is-a.dev/) domain
-
-[Anurag Hazra](https://github.com/anuraghazra/) ~ For the [GitHub README Stats](https://github.com/anuraghazra/github-readme-stats)
-
-[Shields.IO](https://shields.io/) ~ For the nice badges
+## What I'm good at
+### Languages
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg)
+![JavaScript]( 	https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)-ish...
