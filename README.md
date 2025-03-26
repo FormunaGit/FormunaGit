@@ -1,6 +1,3 @@
-> [!CAUTION]
-> I have migrated to [Codeberg!](https://codeberg.org/formuna) All code here will not be updated. Non-impactful repos here will be deleted, important repos here will be archived and tell you to use the Codeberg repo.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/FormunaGit/FormunaGit/refs/heads/main/Pictures/Header.png" />
 </p>
